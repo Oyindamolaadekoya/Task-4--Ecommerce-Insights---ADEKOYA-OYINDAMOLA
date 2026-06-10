@@ -6,10 +6,6 @@ DecodeLabs Data Analytics Internship | Project 4: Data Visualization
 
 ---
 
-And your README:
-
----
-
 # Project 4: Data Visualization
 
 **DecodeLabs Data Analytics Internship | Batch 2026**
